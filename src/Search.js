@@ -78,7 +78,7 @@ export default function Search() {
         <div className="today-word-body">
           <div>Fantastic</div>
           <div>
-            <a href="#" onClick={todayWordSubmit}>
+            <a href="./" onClick={todayWordSubmit}>
               <span className="material-symbols-outlined">
                 arrow_forward_ios
               </span>

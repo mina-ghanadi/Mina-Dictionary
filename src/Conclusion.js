@@ -47,6 +47,7 @@ export default function (props) {
                 src="https://s30.picofile.com/file/8469725742/flag.png"
                 className="america-flag"
                 width="30px"
+                alt="U.S.A flag"
               />
             </div>
           </div>
