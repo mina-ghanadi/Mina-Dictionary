@@ -6,7 +6,7 @@ import Synonyms from "./Synonyms.js";
 import Antonyms from "./Antonyms.js";
 import Image from "./Image.js";
 
-export default function (props) {
+export default function Conclusion(props) {
   if (props.value) {
     return (
       <div className="result-surronding">
